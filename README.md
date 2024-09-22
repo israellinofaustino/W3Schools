@@ -1,5 +1,3 @@
-Here's a sample README for a W3Schools Python repository:
-
 ---
 
 # W3Schools Python Repository
@@ -40,8 +38,8 @@ To use the resources in this repository, you'll need to have:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/w3schools-python.git
-   cd w3schools-python
+   git clone https://github.com/your-username/w3schools.git
+   cd w3schools
    ```
 
 2. **Run a Python file:**
@@ -56,14 +54,14 @@ To use the resources in this repository, you'll need to have:
 ## Folder Structure
 
 ```
-w3schools-python/
-├── basics/                # Introductory Python examples
-├── functions/             # Examples related to functions and scopes
-├── classes/               # Object-oriented programming examples
-├── modules/               # Scripts demonstrating module usage
-├── file_handling/         # Examples of file input/output handling
-├── projects/              # Mini-projects and challenges for practice
-└── README.md              # Repository documentation (this file)
+w3schools/
+├── datatypes/        # Introductory Python datatypes examples
+├── numbers/          # Examples related to numbers
+├── strings/          # String programming examples
+├── booleans/         # Scripts aboult booleans
+├── operatos/         # Examples of operators in python
+├── lists/            # Challenges for lists
+└── much more...      # The repository is growing
 ```
 
 ## Usage
@@ -86,3 +84,4 @@ Contributions are welcome! Here's how you can help:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
