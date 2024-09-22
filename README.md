@@ -86,7 +86,3 @@ Contributions are welcome! Here's how you can help:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the structure and content based on the specific materials you are adding to your W3Schools Python repository!
